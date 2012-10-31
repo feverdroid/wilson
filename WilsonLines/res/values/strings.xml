@@ -1,0 +1,15 @@
+<resources>
+	<string name="app_name">WilsonLines</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="menu_settings">Settings</string>
+	<string name="title_activity_main">Plane Crasher</string>
+	<string name="countries_title">Choose where to crash</string>
+	<string name="countries_reload_text">Reload</string>
+	<string name="packages_information_text">Information</string>
+	<string name="packages_products_text">Products</string>
+	<plurals name="packages_airplanes">
+		<item quantity="one">%d Airplane</item>
+		<item quantity="other">%d Airplanes</item>
+	</plurals>
+	<string name="packages_weight">%.2f KG</string>
+</resources>
